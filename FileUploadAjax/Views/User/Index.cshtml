@@ -1,0 +1,149 @@
+﻿@model FileUploadAjax.Models.UserModel
+
+@{
+    ViewBag.Title = "File Upload";
+}
+
+<h2>File Upload</h2>
+
+
+@using (Html.BeginForm("Index", "User", System.Web.Mvc.FormMethod.Post, new { @id = "user-frm"})) 
+{
+    @Html.AntiForgeryToken()
+    
+    <div class="form-horizontal">
+        <hr />
+        @Html.ValidationSummary(true)
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.FirstName, new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.FirstName)
+                @Html.ValidationMessageFor(model => model.FirstName)
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.LastName, new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.LastName)
+                @Html.ValidationMessageFor(model => model.LastName)
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.Address, new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.Address)
+                @Html.ValidationMessageFor(model => model.Address)
+            </div>
+        </div>
+
+        @*<div class="form-group">
+            @Html.LabelFor(model => model.File, new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.File)
+                @Html.ValidationMessageFor(model => model.File)
+            </div>
+        </div>*@
+
+        @*<div class="form-group">
+            @Html.LabelFor(model => model.FileName, new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.FileName)
+                @Html.ValidationMessageFor(model => model.FileName)
+            </div>
+        </div>*@
+
+        <div class="form-group">
+           <label>Upload File</label>
+            <div class="col-md-10">
+                <input type="file" name="File" id="File">
+            </div>
+        </div>
+
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" value="Create" class="btn btn-default" />
+            </div>
+        </div>
+    </div>
+}
+
+<div>
+    @Html.ActionLink("Back to List", "Index")
+</div>
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+
+    <script>
+        $('#user-frm').submit(function (e)
+        {
+            e.preventDefault();
+            if ($('#user-frm').valid())
+            {
+                var fileData;
+                var filename = $("#File").val();
+                var fileList = document.getElementById("File").files;
+                var fr = new FileReader();
+                if (fileList.length > 0)
+                {
+                            var UserModel = {
+                                FirstName: $("#FirstName").val(),
+                                LastName: $("#LastName").val(),
+                                Address: $("#Address").val(),
+                                FileBase64: "",
+                                FileName: ""
+                            }
+                            if (FileReader && fileList && fileList.length) {
+                                fr.readAsArrayBuffer(fileList[0]);
+                                fr.onload = function () {
+                                    fileData = fr.result;
+                                    var base = _arrayBufferToBase64(fileData);
+                                    UserModel.FileBase64 = base;
+                                    UserModel.FileName = filename;
+                                    $.ajax({
+                                        url: '@Url.Action("Index", "User")',
+                                        type: "POST",
+                                        data: UserModel,
+                                        success: function (data) {
+                                            if (data.Success)
+                                            {
+                                               /*Do Something here*/  
+                                            }
+                                        }
+                                    });
+                                };
+                            }
+                }
+                else
+                {
+                    $.ajax({
+                        url: '@Url.Action("Index","User")',
+                        type: "POST",
+                        data: $('#user-frm').serialize(),
+                        success: function (data) {
+                            if (data.data.IsSuccess) {
+                                    /*Do Something Here*/
+                            }
+                        }
+                    });
+                }
+            }
+            else {
+                return false;
+            }
+
+        });
+        function _arrayBufferToBase64(buffer) {
+            var binary = '';
+            var bytes = new Uint8Array(buffer);
+            var len = bytes.byteLength;
+            for (var i = 0; i < len; i++) {
+                binary += String.fromCharCode(bytes[i]);
+            }
+            return window.btoa(binary);
+        }
+    </script>
+}

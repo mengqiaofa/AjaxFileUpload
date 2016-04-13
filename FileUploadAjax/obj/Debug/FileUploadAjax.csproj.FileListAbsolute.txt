@@ -1,0 +1,110 @@
+c:\users\saifullah.iqbal\documents\visual studio 2013\Projects\FileUploadAjax\FileUploadAjax\bin\FileUploadAjax.dll.config
+c:\users\saifullah.iqbal\documents\visual studio 2013\Projects\FileUploadAjax\FileUploadAjax\bin\FileUploadAjax.dll
+c:\users\saifullah.iqbal\documents\visual studio 2013\Projects\FileUploadAjax\FileUploadAjax\bin\FileUploadAjax.pdb
+c:\users\saifullah.iqbal\documents\visual studio 2013\Projects\FileUploadAjax\FileUploadAjax\bin\Antlr3.Runtime.dll
+c:\users\saifullah.iqbal\documents\visual studio 2013\Projects\FileUploadAjax\FileUploadAjax\bin\EntityFramework.dll
+c:\users\saifullah.iqbal\documents\visual studio 2013\Projects\FileUploadAjax\FileUploadAjax\bin\EntityFramework.SqlServer.dll
+c:\users\saifullah.iqbal\documents\visual studio 2013\Projects\FileUploadAjax\FileUploadAjax\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\saifullah.iqbal\documents\visual studio 2013\Projects\FileUploadAjax\FileUploadAjax\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\saifullah.iqbal\documents\visual studio 2013\Projects\FileUploadAjax\FileUploadAjax\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\saifullah.iqbal\documents\visual studio 2013\Projects\FileUploadAjax\FileUploadAjax\bin\Microsoft.Owin.dll
+c:\users\saifullah.iqbal\documents\visual studio 2013\Projects\FileUploadAjax\FileUploadAjax\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\saifullah.iqbal\documents\visual studio 2013\Projects\FileUploadAjax\FileUploadAjax\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\saifullah.iqbal\documents\visual studio 2013\Projects\FileUploadAjax\FileUploadAjax\bin\Microsoft.Owin.Security.dll
+c:\users\saifullah.iqbal\documents\visual studio 2013\Projects\FileUploadAjax\FileUploadAjax\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\saifullah.iqbal\documents\visual studio 2013\Projects\FileUploadAjax\FileUploadAjax\bin\Microsoft.Owin.Security.Google.dll
+c:\users\saifullah.iqbal\documents\visual studio 2013\Projects\FileUploadAjax\FileUploadAjax\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\saifullah.iqbal\documents\visual studio 2013\Projects\FileUploadAjax\FileUploadAjax\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\saifullah.iqbal\documents\visual studio 2013\Projects\FileUploadAjax\FileUploadAjax\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\saifullah.iqbal\documents\visual studio 2013\Projects\FileUploadAjax\FileUploadAjax\bin\Microsoft.Web.Infrastructure.dll
+c:\users\saifullah.iqbal\documents\visual studio 2013\Projects\FileUploadAjax\FileUploadAjax\bin\Newtonsoft.Json.dll
+c:\users\saifullah.iqbal\documents\visual studio 2013\Projects\FileUploadAjax\FileUploadAjax\bin\Owin.dll
+c:\users\saifullah.iqbal\documents\visual studio 2013\Projects\FileUploadAjax\FileUploadAjax\bin\System.Web.Helpers.dll
+c:\users\saifullah.iqbal\documents\visual studio 2013\Projects\FileUploadAjax\FileUploadAjax\bin\System.Web.Mvc.dll
+c:\users\saifullah.iqbal\documents\visual studio 2013\Projects\FileUploadAjax\FileUploadAjax\bin\System.Web.Optimization.dll
+c:\users\saifullah.iqbal\documents\visual studio 2013\Projects\FileUploadAjax\FileUploadAjax\bin\System.Web.Razor.dll
+c:\users\saifullah.iqbal\documents\visual studio 2013\Projects\FileUploadAjax\FileUploadAjax\bin\System.Web.WebPages.Deployment.dll
+c:\users\saifullah.iqbal\documents\visual studio 2013\Projects\FileUploadAjax\FileUploadAjax\bin\System.Web.WebPages.dll
+c:\users\saifullah.iqbal\documents\visual studio 2013\Projects\FileUploadAjax\FileUploadAjax\bin\System.Web.WebPages.Razor.dll
+c:\users\saifullah.iqbal\documents\visual studio 2013\Projects\FileUploadAjax\FileUploadAjax\bin\WebGrease.dll
+c:\users\saifullah.iqbal\documents\visual studio 2013\Projects\FileUploadAjax\FileUploadAjax\bin\System.Web.Helpers.xml
+c:\users\saifullah.iqbal\documents\visual studio 2013\Projects\FileUploadAjax\FileUploadAjax\bin\System.Web.Mvc.xml
+c:\users\saifullah.iqbal\documents\visual studio 2013\Projects\FileUploadAjax\FileUploadAjax\bin\System.Web.Optimization.xml
+c:\users\saifullah.iqbal\documents\visual studio 2013\Projects\FileUploadAjax\FileUploadAjax\bin\System.Web.Razor.xml
+c:\users\saifullah.iqbal\documents\visual studio 2013\Projects\FileUploadAjax\FileUploadAjax\bin\System.Web.WebPages.xml
+c:\users\saifullah.iqbal\documents\visual studio 2013\Projects\FileUploadAjax\FileUploadAjax\bin\System.Web.WebPages.Deployment.xml
+c:\users\saifullah.iqbal\documents\visual studio 2013\Projects\FileUploadAjax\FileUploadAjax\bin\System.Web.WebPages.Razor.xml
+c:\users\saifullah.iqbal\documents\visual studio 2013\Projects\FileUploadAjax\FileUploadAjax\bin\Newtonsoft.Json.xml
+c:\users\saifullah.iqbal\documents\visual studio 2013\Projects\FileUploadAjax\FileUploadAjax\bin\Antlr3.Runtime.pdb
+c:\users\saifullah.iqbal\documents\visual studio 2013\Projects\FileUploadAjax\FileUploadAjax\bin\EntityFramework.xml
+c:\users\saifullah.iqbal\documents\visual studio 2013\Projects\FileUploadAjax\FileUploadAjax\bin\EntityFramework.SqlServer.xml
+c:\users\saifullah.iqbal\documents\visual studio 2013\Projects\FileUploadAjax\FileUploadAjax\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\saifullah.iqbal\documents\visual studio 2013\Projects\FileUploadAjax\FileUploadAjax\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\saifullah.iqbal\documents\visual studio 2013\Projects\FileUploadAjax\FileUploadAjax\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\saifullah.iqbal\documents\visual studio 2013\Projects\FileUploadAjax\FileUploadAjax\bin\Microsoft.Owin.xml
+c:\users\saifullah.iqbal\documents\visual studio 2013\Projects\FileUploadAjax\FileUploadAjax\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\saifullah.iqbal\documents\visual studio 2013\Projects\FileUploadAjax\FileUploadAjax\bin\Microsoft.Owin.Security.xml
+c:\users\saifullah.iqbal\documents\visual studio 2013\Projects\FileUploadAjax\FileUploadAjax\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\saifullah.iqbal\documents\visual studio 2013\Projects\FileUploadAjax\FileUploadAjax\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\saifullah.iqbal\documents\visual studio 2013\Projects\FileUploadAjax\FileUploadAjax\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\saifullah.iqbal\documents\visual studio 2013\Projects\FileUploadAjax\FileUploadAjax\bin\Microsoft.Owin.Security.Google.xml
+c:\users\saifullah.iqbal\documents\visual studio 2013\Projects\FileUploadAjax\FileUploadAjax\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\saifullah.iqbal\documents\visual studio 2013\Projects\FileUploadAjax\FileUploadAjax\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\saifullah.iqbal\documents\visual studio 2013\Projects\FileUploadAjax\FileUploadAjax\obj\Debug\FileUploadAjax.csprojResolveAssemblyReference.cache
+c:\users\saifullah.iqbal\documents\visual studio 2013\Projects\FileUploadAjax\FileUploadAjax\obj\Debug\FileUploadAjax.dll
+c:\users\saifullah.iqbal\documents\visual studio 2013\Projects\FileUploadAjax\FileUploadAjax\obj\Debug\FileUploadAjax.pdb
+D:\ajax\AjaxFileUpload\FileUploadAjax\bin\FileUploadAjax.dll.config
+D:\ajax\AjaxFileUpload\FileUploadAjax\bin\FileUploadAjax.dll
+D:\ajax\AjaxFileUpload\FileUploadAjax\bin\FileUploadAjax.pdb
+D:\ajax\AjaxFileUpload\FileUploadAjax\bin\Antlr3.Runtime.dll
+D:\ajax\AjaxFileUpload\FileUploadAjax\bin\EntityFramework.dll
+D:\ajax\AjaxFileUpload\FileUploadAjax\bin\EntityFramework.SqlServer.dll
+D:\ajax\AjaxFileUpload\FileUploadAjax\bin\Microsoft.AspNet.Identity.Core.dll
+D:\ajax\AjaxFileUpload\FileUploadAjax\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\ajax\AjaxFileUpload\FileUploadAjax\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\ajax\AjaxFileUpload\FileUploadAjax\bin\Microsoft.Owin.dll
+D:\ajax\AjaxFileUpload\FileUploadAjax\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\ajax\AjaxFileUpload\FileUploadAjax\bin\Microsoft.Owin.Security.Cookies.dll
+D:\ajax\AjaxFileUpload\FileUploadAjax\bin\Microsoft.Owin.Security.dll
+D:\ajax\AjaxFileUpload\FileUploadAjax\bin\Microsoft.Owin.Security.Facebook.dll
+D:\ajax\AjaxFileUpload\FileUploadAjax\bin\Microsoft.Owin.Security.Google.dll
+D:\ajax\AjaxFileUpload\FileUploadAjax\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\ajax\AjaxFileUpload\FileUploadAjax\bin\Microsoft.Owin.Security.OAuth.dll
+D:\ajax\AjaxFileUpload\FileUploadAjax\bin\Microsoft.Owin.Security.Twitter.dll
+D:\ajax\AjaxFileUpload\FileUploadAjax\bin\Microsoft.Web.Infrastructure.dll
+D:\ajax\AjaxFileUpload\FileUploadAjax\bin\Newtonsoft.Json.dll
+D:\ajax\AjaxFileUpload\FileUploadAjax\bin\Owin.dll
+D:\ajax\AjaxFileUpload\FileUploadAjax\bin\System.Web.Helpers.dll
+D:\ajax\AjaxFileUpload\FileUploadAjax\bin\System.Web.Mvc.dll
+D:\ajax\AjaxFileUpload\FileUploadAjax\bin\System.Web.Optimization.dll
+D:\ajax\AjaxFileUpload\FileUploadAjax\bin\System.Web.Razor.dll
+D:\ajax\AjaxFileUpload\FileUploadAjax\bin\System.Web.WebPages.Deployment.dll
+D:\ajax\AjaxFileUpload\FileUploadAjax\bin\System.Web.WebPages.dll
+D:\ajax\AjaxFileUpload\FileUploadAjax\bin\System.Web.WebPages.Razor.dll
+D:\ajax\AjaxFileUpload\FileUploadAjax\bin\WebGrease.dll
+D:\ajax\AjaxFileUpload\FileUploadAjax\bin\System.Web.Helpers.xml
+D:\ajax\AjaxFileUpload\FileUploadAjax\bin\System.Web.Mvc.xml
+D:\ajax\AjaxFileUpload\FileUploadAjax\bin\System.Web.Optimization.xml
+D:\ajax\AjaxFileUpload\FileUploadAjax\bin\System.Web.Razor.xml
+D:\ajax\AjaxFileUpload\FileUploadAjax\bin\System.Web.WebPages.xml
+D:\ajax\AjaxFileUpload\FileUploadAjax\bin\System.Web.WebPages.Deployment.xml
+D:\ajax\AjaxFileUpload\FileUploadAjax\bin\System.Web.WebPages.Razor.xml
+D:\ajax\AjaxFileUpload\FileUploadAjax\bin\Newtonsoft.Json.xml
+D:\ajax\AjaxFileUpload\FileUploadAjax\bin\Antlr3.Runtime.pdb
+D:\ajax\AjaxFileUpload\FileUploadAjax\bin\EntityFramework.xml
+D:\ajax\AjaxFileUpload\FileUploadAjax\bin\EntityFramework.SqlServer.xml
+D:\ajax\AjaxFileUpload\FileUploadAjax\bin\Microsoft.AspNet.Identity.Core.xml
+D:\ajax\AjaxFileUpload\FileUploadAjax\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\ajax\AjaxFileUpload\FileUploadAjax\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\ajax\AjaxFileUpload\FileUploadAjax\bin\Microsoft.Owin.xml
+D:\ajax\AjaxFileUpload\FileUploadAjax\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\ajax\AjaxFileUpload\FileUploadAjax\bin\Microsoft.Owin.Security.xml
+D:\ajax\AjaxFileUpload\FileUploadAjax\bin\Microsoft.Owin.Security.Facebook.xml
+D:\ajax\AjaxFileUpload\FileUploadAjax\bin\Microsoft.Owin.Security.Cookies.xml
+D:\ajax\AjaxFileUpload\FileUploadAjax\bin\Microsoft.Owin.Security.OAuth.xml
+D:\ajax\AjaxFileUpload\FileUploadAjax\bin\Microsoft.Owin.Security.Google.xml
+D:\ajax\AjaxFileUpload\FileUploadAjax\bin\Microsoft.Owin.Security.Twitter.xml
+D:\ajax\AjaxFileUpload\FileUploadAjax\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\ajax\AjaxFileUpload\FileUploadAjax\obj\Debug\FileUploadAjax.csprojResolveAssemblyReference.cache
+D:\ajax\AjaxFileUpload\FileUploadAjax\obj\Debug\FileUploadAjax.dll
+D:\ajax\AjaxFileUpload\FileUploadAjax\obj\Debug\FileUploadAjax.pdb
